@@ -12,3 +12,6 @@ first check the update :
 5. pip3 install requests (then install your packages)
 7. python -c "import requests"
 8. nano youtube.py
+
+# using conda to create a vertual_enviroment
+1. conda create -n chatpd python=3.9 (the version of python you want to install the venv with)
